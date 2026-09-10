@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Morgan (@morganfx181) 👋
 
-<!--
-**morganfx181/morganfx181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Toronto. Currently building service infrastructure and data pipelines at Tech Labs.
 
-Here are some ideas to get you started:
+#### What I'm doing
+- 🛠️ Writing backend services with Go and Python (FastAPI)
+- 🐘 Tuning PostgreSQL queries and debugging Redis caching patterns
+- 📦 Containerizing workloads with Docker and keeping CI/CD clean
+- 📖 Currently digging deeper into distributed systems internals and tinkering with Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+- **Languages:** Go, Python, SQL, Bash
+- **Storage & Frameworks:** PostgreSQL, Redis, FastAPI
+- **Infra & Tooling:** Docker, Linux, Git, GitHub Actions
+
+#### Connect
+- Email: morganfx181@proton.me
+- LinkedIn: linkedin.com/in/morganfx181
